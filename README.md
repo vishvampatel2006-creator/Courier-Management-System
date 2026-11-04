@@ -24,4 +24,4 @@ An interactive, console-based **Java application** designed to streamline courie
 ## 💻 How to Run Locally
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/vishvampatel2006-creator/Courier-Management-System.git](https://github.com/vishvampatel2006-creator/Courier-Management-System.git)
+   git clone https://github.com/vishvampatel2006-creator/Courier-Management-System.git
